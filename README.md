@@ -4,7 +4,7 @@ https://github.com/s5y-ux/ArduinoPong/assets/59636597/5c1003ea-4323-4022-95d5-a5
 
 This project guides you through creating a Pong game using an Arduino microcontroller, an OLED display, and two potentiometers for paddle control. This classic game pits two players against each other, each controlling a paddle to hit a ball back and forth. Points are scored when one player fails to return the ball, and the game ends when a player reaches the maximum points.
 
-## Components Required
+## Components Requiredd
 
 - Arduino Uno (or any compatible microcontroller)
 - OLED display (128x64 pixels, I2C communication)
